@@ -13,7 +13,7 @@
                   <img v-if="header__white && !isSticky" 
                   src="../../assets/img/logo/logo-2.png" alt="logo" />
                   
-                  <img v-else src="../../assets/img/logo/logo.png" alt="logo" />
+                  <img v-else src="../../assets/img/logo/logo_big.png" alt="logo" width="90"/>
                 </router-link>
               </div>
               <div class="header__category d-none d-lg-block">

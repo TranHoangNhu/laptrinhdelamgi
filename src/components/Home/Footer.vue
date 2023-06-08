@@ -9,7 +9,7 @@
                      <div class="footer__widget-head mb-22">
                         <div class="footer__logo">
                            <router-link to="/">
-                              <img :src="`${footerBgTwo ? require('../../assets/img/logo/logo.png') : require('../../assets/img/logo/logo-2.png')}`" alt="">
+                              <img :src="`${footerBgTwo ? require('../../assets/img/logo/logo.png') : require('../../assets/img/logo/logo_white.png')}`" alt="logo_footer" width="200">
                            </router-link>
                         </div>
                      </div>
