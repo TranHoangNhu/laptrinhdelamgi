@@ -11,7 +11,7 @@
               <div class="logo">
                 <router-link to="/">
                   <img v-if="header__white && !isSticky" 
-                  src="../../assets/img/logo/logo-2.png" alt="logo" />
+                  src="../../assets/img/logo/logo_white.png" alt="logo" width="90"/>
                   
                   <img v-else src="../../assets/img/logo/logo_big.png" alt="logo" width="90"/>
                 </router-link>
