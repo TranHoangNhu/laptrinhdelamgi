@@ -295,7 +295,7 @@
         <div class="sidebar__content">
             <div class="logo mb-40">
               <router-link to="/">
-                <img src="../../assets/img/logo/logo.png" alt="logo">
+                <img src="../../assets/img/logo/logo_big.png" alt="logo" width="150">
               </router-link>
             </div>
 
